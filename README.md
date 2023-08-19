@@ -6,7 +6,7 @@ Korea Advanced Institute of Science and Technology, Daejeon, South Korea
 
 
 ## Overview
-<img src="images/overview.PNG" width="90%">
+<img src="images/overview.PNG" width="100%">
 
 ## Dependencies
 
@@ -26,7 +26,7 @@ pip install .
 
 case study
 
-<img src="images/case-study.PNG" width="80%">
+<img src="images/case-study.PNG" width="100%">
 
 ## Citation
 
