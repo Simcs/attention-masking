@@ -24,7 +24,7 @@ pip install .
 
 ## Results
 
-case study
+Case study
 
 <img src="images/case-study.PNG" width="100%">
 
