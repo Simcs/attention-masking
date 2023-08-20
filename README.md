@@ -22,6 +22,17 @@ Setup project:
 pip install .
 ```
 
+## Train & Test
+
+Train
+
+Please refer to [here](https://github.com/Simcs/video-transformer) for preparing ViViT model.
+
+```
+python -m finetune_vivit <<training parameters>>
+```
+
+
 ## Results
 
 Case study
